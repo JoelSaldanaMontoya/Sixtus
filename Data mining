@@ -1,0 +1,4 @@
+Data mining
+
+Using Weka 3.8.4. The data of network events stored by the Nagios Core are analyzed, 
+then to establish analysis and make predictions of the network status.
