@@ -1,0 +1,3 @@
+Network monitor
+
+Written in python, bash and expect, using Nagios Core support, complemented with SNMP and TCL Shell
