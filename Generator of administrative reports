@@ -1,0 +1,4 @@
+Generator of administrative reports.
+
+Using codes in Expect, bash and python, the AI system automatically generates reports on the state of the network and specific parameters requested such as availability, traffic types, execution times, etc.
+These reports are delivered via mail using sendmail (mailserver) and in .xls format.
